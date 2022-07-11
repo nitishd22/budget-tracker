@@ -24,7 +24,7 @@ npm run start
 The application will be running on http://localhost:3001
 
 ## Deployed Application
-https://nitishd22.github.io/budget-tracker/
+https://pwa-budgettracker-356.herokuapp.com/
 
 ## Made by:
 Nitish Doss, 2022
